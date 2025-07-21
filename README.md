@@ -1,4 +1,4 @@
-# Artificient GPS Tracking & Data Collection App
+# GPS Tracking & Data Collection App
 
 A modern Android app for real-time GPS tracking, trip history, and settings management, built with Jetpack Compose and MVVM architecture.
 
