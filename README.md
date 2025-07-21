@@ -40,11 +40,10 @@ A modern Android app for real-time GPS tracking, trip history, and settings mana
 
 ### 1. Clone the repository
 ```sh
-git clone <your-repo-url>
-cd ArtificientGPSTracking
+Clone the repository
 ```
 
-### 2. Add your Google Maps API Key
+### . Add your Google Maps API Key
 - Open `local.properties` (create if missing) in the project root.
 - Add your API key:
   ```
