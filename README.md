@@ -9,7 +9,7 @@ A modern Android app for real-time GPS tracking, trip history, and settings mana
 - Trip history with duration and distance
 - Configurable location update interval and background tracking
 - Modern Material 3 UI with Jetpack Compose
-- MVVM architecture, Room, DataStore, Koin DI
+- MVVM architecture, Room, DataStore, Koin DIv
 
 ---
 
